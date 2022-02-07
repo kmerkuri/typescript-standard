@@ -4,7 +4,7 @@ metadata:
   name: test
   description: An application.
   annotations:
-    backstage.io/code-coverage: scm-only
+    backstage.io/code-coverage: enabled
 spec:
   type: service
   owner: hhh@example.com
